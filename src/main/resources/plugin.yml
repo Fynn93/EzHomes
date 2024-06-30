@@ -44,10 +44,10 @@ permissions:
     default: op
     description: Allows the usage of /ezhomes.
   ezhomes.sethome:
-    default: true
+    default: op
     description: Allows the usage of /sethome.
   ezhomes.home:
-    default: true
+    default: op
     description: Allows the usage of /home.
   ezhomes.homes:
     default: true
